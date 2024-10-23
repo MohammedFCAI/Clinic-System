@@ -1,0 +1,12 @@
+D:\Testing\C#\ClinicSystem\ClinicSystem.Data\bin\Debug\net8.0\ClinicSystem.Data.deps.json
+D:\Testing\C#\ClinicSystem\ClinicSystem.Data\bin\Debug\net8.0\ClinicSystem.Data.dll
+D:\Testing\C#\ClinicSystem\ClinicSystem.Data\bin\Debug\net8.0\ClinicSystem.Data.pdb
+D:\Testing\C#\ClinicSystem\ClinicSystem.Data\obj\Debug\net8.0\ClinicSystem.Data.csproj.AssemblyReference.cache
+D:\Testing\C#\ClinicSystem\ClinicSystem.Data\obj\Debug\net8.0\ClinicSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Testing\C#\ClinicSystem\ClinicSystem.Data\obj\Debug\net8.0\ClinicSystem.Data.AssemblyInfoInputs.cache
+D:\Testing\C#\ClinicSystem\ClinicSystem.Data\obj\Debug\net8.0\ClinicSystem.Data.AssemblyInfo.cs
+D:\Testing\C#\ClinicSystem\ClinicSystem.Data\obj\Debug\net8.0\ClinicSystem.Data.csproj.CoreCompileInputs.cache
+D:\Testing\C#\ClinicSystem\ClinicSystem.Data\obj\Debug\net8.0\ClinicSystem.Data.dll
+D:\Testing\C#\ClinicSystem\ClinicSystem.Data\obj\Debug\net8.0\refint\ClinicSystem.Data.dll
+D:\Testing\C#\ClinicSystem\ClinicSystem.Data\obj\Debug\net8.0\ClinicSystem.Data.pdb
+D:\Testing\C#\ClinicSystem\ClinicSystem.Data\obj\Debug\net8.0\ref\ClinicSystem.Data.dll

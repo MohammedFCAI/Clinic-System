@@ -1,0 +1,17 @@
+D:\Testing\C#\ClinicSystem\ClinicSystem.Infrastructure\bin\Debug\net8.0\ClinicSystem.Infrastructure.deps.json
+D:\Testing\C#\ClinicSystem\ClinicSystem.Infrastructure\bin\Debug\net8.0\ClinicSystem.Infrastructure.runtimeconfig.json
+D:\Testing\C#\ClinicSystem\ClinicSystem.Infrastructure\bin\Debug\net8.0\ClinicSystem.Infrastructure.dll
+D:\Testing\C#\ClinicSystem\ClinicSystem.Infrastructure\bin\Debug\net8.0\ClinicSystem.Infrastructure.pdb
+D:\Testing\C#\ClinicSystem\ClinicSystem.Infrastructure\bin\Debug\net8.0\ClinicSystem.Data.dll
+D:\Testing\C#\ClinicSystem\ClinicSystem.Infrastructure\bin\Debug\net8.0\ClinicSystem.Data.pdb
+D:\Testing\C#\ClinicSystem\ClinicSystem.Infrastructure\obj\Debug\net8.0\ClinicSystem.Infrastructure.csproj.AssemblyReference.cache
+D:\Testing\C#\ClinicSystem\ClinicSystem.Infrastructure\obj\Debug\net8.0\ClinicSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Testing\C#\ClinicSystem\ClinicSystem.Infrastructure\obj\Debug\net8.0\ClinicSystem.Infrastructure.AssemblyInfoInputs.cache
+D:\Testing\C#\ClinicSystem\ClinicSystem.Infrastructure\obj\Debug\net8.0\ClinicSystem.Infrastructure.AssemblyInfo.cs
+D:\Testing\C#\ClinicSystem\ClinicSystem.Infrastructure\obj\Debug\net8.0\ClinicSystem.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Testing\C#\ClinicSystem\ClinicSystem.Infrastructure\obj\Debug\net8.0\ClinicSy.CA98C21D.Up2Date
+D:\Testing\C#\ClinicSystem\ClinicSystem.Infrastructure\obj\Debug\net8.0\ClinicSystem.Infrastructure.dll
+D:\Testing\C#\ClinicSystem\ClinicSystem.Infrastructure\obj\Debug\net8.0\refint\ClinicSystem.Infrastructure.dll
+D:\Testing\C#\ClinicSystem\ClinicSystem.Infrastructure\obj\Debug\net8.0\ClinicSystem.Infrastructure.pdb
+D:\Testing\C#\ClinicSystem\ClinicSystem.Infrastructure\obj\Debug\net8.0\ClinicSystem.Infrastructure.genruntimeconfig.cache
+D:\Testing\C#\ClinicSystem\ClinicSystem.Infrastructure\obj\Debug\net8.0\ref\ClinicSystem.Infrastructure.dll

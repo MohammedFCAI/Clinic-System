@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aNI5nWz8cCYhhBXWGcwf8n+3EDVHEOliBJVHPekb+Yg=",
+  "Source": "ClinicSystem.API",
+  "BasePath": "_content/ClinicSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
